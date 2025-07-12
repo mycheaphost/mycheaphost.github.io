@@ -1,4 +1,4 @@
-# ![MyCheap.Host логотип](assets/logo.png)  
+# <img src="https://mycheap.host/static/logo-b.svg" alt="MyCheap.Host логотип" width="220"/>  
 # MyCheap.Host — Ваш доступный и удобный хостинг
 
 **[MyCheap.Host](https://mycheap.host)** — современный хостинг-провайдер для простого, быстрого и доступного размещения сайтов.  
@@ -19,7 +19,7 @@
 
 ---
 
-## ![dashboard](assets/dashboard.png)  
+## ![Панель управления](https://mycheap.host/static/dashboard/hosting-dashboard.png)  
 ### Удобная панель управления
 
 - Управляйте сайтами, доменами и почтой с одного экрана.
@@ -68,10 +68,9 @@
 
 ---
 
-![hosting](assets/hosting.png)
+<img src="https://mycheap.host/static/dashboard/web-hosting.png" alt="Веб-хостинг MyCheap.Host" width="700"/>
 
 ---
 
 **MyCheap.Host** — ваш быстрый и выгодный старт в интернете!  
 [Попробовать сейчас →](https://mycheap.host)
-
